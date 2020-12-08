@@ -16,4 +16,43 @@ ___
 ##### Desafio - 3 / 3 - Quanta Mandioca?
  * Os meses de Junho e Julho são tradicionalmente conhecidos por todo Brasil por suas festas...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/003.js)
+
 ___
+
+___
+
+___
+
+
+__
+### FUNDAMENTOS ARITMÉTICOS EM JAVASCRIPT:
+
+##### Desafio - 1 / 5 - Quantidade de Números Positivos
+ * Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/004.js)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

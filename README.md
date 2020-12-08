@@ -30,7 +30,10 @@ __
 ##### Desafio - 1 / 5 - Quantidade de Números Positivos
  * Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/004.js)
-
+___
+##### Desafio - 2 / 5 - Exibindo Números Pares
+ * Crie um programa que leia um número e mostre os números pares até esse número, inclusive...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/005.js)
 
 
 

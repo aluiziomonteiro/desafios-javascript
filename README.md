@@ -42,7 +42,10 @@ ___
 ##### Desafio - 4 / 5 - Contagem de Cédulas
  * Faça a leitura de um valor inteiro. Em seguida, calcule o menor número de notas possíveis...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/007.js)
-
+___
+##### Desafio - 5 / 5 - Consumo Médio do Automóvel
+ * Você deve calcular o consumo médio de um automóvel onde será informada a distância...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/008.js)
 
 
 

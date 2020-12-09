@@ -42,18 +42,21 @@
   * **/
 
 
-/** Teste */
-const teste = '500 35.0'; 
-// const teste = '2254 124.4';      // Teste 02
-// const teste = '4554 464.6';      // Teste 03
+/** Teste */     
+let arr = [500, 35.0];      // Teste 01
+// let arr = [2254, 124.4];    // Teste 02
+// let arr = [4554, 464.6];    // Teste 03
+
+let cont = 0;
 
 function gets(){
-    return teste;
+    return arr[cont++];
 }
 
 
 /** Solução */  
-let [distancia,combustivel] = gets().split(' ');
+let distancia = gets();
+let combustivel = gets();
 let kml = 0.000;
 
 kml = distancia / combustivel

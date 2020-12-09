@@ -55,7 +55,10 @@ ___
 ##### Desafio - 3 / 5 - Cálculo de viagem
  * Rubens quer calcular e mostrar a quantidade de litros de combustível gastos em uma vi...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/011.js)
-
+___
+##### Desafio - 4 / 5 Imposto de Renda
+ * Há um país denominado Lilipute, todos os habitantes ficam felizes em pagar seus impost...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/012.js)
 
 
 

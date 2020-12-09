@@ -51,7 +51,10 @@ ___
 ##### Desafio - 2 / 5 - Coxinha de Bueno
  * Em 2015 um novo record foi alcançado na competição de Coxinhas de Bueno de Andrada,...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/010.js)
-
+___
+##### Desafio - 3 / 5 - Cálculo de viagem
+ * Rubens quer calcular e mostrar a quantidade de litros de combustível gastos em uma vi...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/011.js)
 
 
 

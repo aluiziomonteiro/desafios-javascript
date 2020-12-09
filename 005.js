@@ -29,8 +29,8 @@
   * R:
   **/ 
 
-  /** Teste */
- const teste = 6;
+  /** Testes */
+ const teste = 6;    // Entrada 01
  
  function gets(){
      return teste;

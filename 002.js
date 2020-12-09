@@ -29,8 +29,8 @@
 
 /** Testes */ 
 
-const teste = 30;    // teste 01
-// const teste = 110;   // teste 02
+const teste = 30;    // Entrada 01
+// const teste = 110;   // Entrada 02
 
 function gets(){
     return teste;

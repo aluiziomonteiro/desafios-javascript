@@ -48,8 +48,8 @@
  * R:
  **/
 
- 
- /** Teste */
+
+ /** Testes */
 // let teste = '10 90';    // Entrada 01
 // let teste = '840 11';   // Entrada 02
  let teste = '1 50';     // Entrada 03

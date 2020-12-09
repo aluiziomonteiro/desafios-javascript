@@ -40,10 +40,10 @@
  * R:
  * **/
 
- /** Teste */
-let arr = [30, 10];    // Teste 01
-// let arr = [-30, 10];   // Teste 02
-// let arr = [0, 0];      // Teste 03
+ /** Testes */
+let arr = [30, 10];    // Entrada 01
+// let arr = [-30, 10];   // Entrada 02
+// let arr = [0, 0];      // Entrada 03
 
 let cont = 0;
 

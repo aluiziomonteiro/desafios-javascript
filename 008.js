@@ -42,10 +42,10 @@
   * **/
 
 
-/** Teste */     
-let arr = [500, 35.0];      // Teste 01
-// let arr = [2254, 124.4];    // Teste 02
-// let arr = [4554, 464.6];    // Teste 03
+/** Testes */     
+let arr = [500, 35.0];      // Entrada 01
+// let arr = [2254, 124.4];    // Entrada 02
+// let arr = [4554, 464.6];    // Entrada 03
 
 let cont = 0;
 

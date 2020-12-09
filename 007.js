@@ -60,11 +60,11 @@
 
 
 
-/** Teste - Descomente as variáveis, uma por uma para testar */
+/** Testes */
 
-const teste = 576;   // Teste 01
-// const teste = 11257; // Teste 02     
-// const teste = 503;   // Teste 03
+const teste = 576;   // Entrada 01
+// const teste = 11257; // Entrada 02     
+// const teste = 503;   // Entrada 03
 
 function gets(){
     return teste;

@@ -34,8 +34,8 @@
  * R:
 **/
 
- /** Teste */
- const teste = ['-5', '0', '-3', '-4', '12'];
+ /** Testes */
+ const teste = ['-5', '0', '-3', '-4', '12'];    // Entrada 01
 
  function gets(){
      return teste[i];

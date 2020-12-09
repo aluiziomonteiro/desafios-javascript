@@ -35,8 +35,8 @@
  * */
 
 
- /** Teste */
-const teste = ['7', '-5', '6', '-3.4', '4.6', '12'];
+ /** Testes */
+const teste = ['7', '-5', '6', '-3.4', '4.6', '12'];  // Entrada 01
 
 function gets(){
     return teste[i];

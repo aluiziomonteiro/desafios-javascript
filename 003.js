@@ -52,10 +52,10 @@
  * R:
  * */
 
- /** Teste */
+ /** Testes */
 
- const teste = 1;    // teste 01
- // const teste = 2;    // teste 02
+ const teste = 1;    // Entrada 01
+ // const teste = 2;    // Entrada 02
 
 function gets(){
     return teste;

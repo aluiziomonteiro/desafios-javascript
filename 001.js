@@ -33,10 +33,10 @@
 
 /** Testes*/
 
- const teste = '3  ';        //Teste 01
-// const teste = '3 -2';        //Teste 02
-// const teste = '-8 0';        //Teste 03
-// const teste = '0 8';         //Teste 04
+ const teste = '3  ';        // Entrada 01
+// const teste = '3 -2';        // Entrada 02
+// const teste = '-8 0';        // Entrada 03
+// const teste = '0 8';         // Entrada 04
 
 function gets(){
     return teste;

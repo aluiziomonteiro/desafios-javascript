@@ -47,7 +47,10 @@ ___
 ##### Desafio - 1 / 5 - Soma Simples
  * Leia dois valores inteiros identificados como variáveis A e B. Calcule a soma entre ela...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/009.js)
-
+___
+##### Desafio - 2 / 5 - Coxinha de Bueno
+ * Em 2015 um novo record foi alcançado na competição de Coxinhas de Bueno de Andrada,...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/010.js)
 
 
 

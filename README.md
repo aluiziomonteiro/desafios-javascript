@@ -17,14 +17,8 @@ ___
  * Os meses de Junho e Julho são tradicionalmente conhecidos por todo Brasil por suas fest...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/003.js)
 
+---
 ___
-
-___
-
-___
-
-
-__
 ### FUNDAMENTOS ARITMÉTICOS EM JAVASCRIPT:
 
 ##### Desafio - 1 / 5 - Quantidade de Números Positivos
@@ -46,7 +40,13 @@ ___
 ##### Desafio - 5 / 5 - Consumo Médio do Automóvel
  * Você deve calcular o consumo médio de um automóvel onde será informada a distância...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/008.js)
+---
+___
+### PROBLEMAS ARITMÉTICOS:
 
+##### Desafio - 1 / 5 - Soma Simples
+ * Leia dois valores inteiros identificados como variáveis A e B. Calcule a soma entre ela...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/009.js)
 
 
 

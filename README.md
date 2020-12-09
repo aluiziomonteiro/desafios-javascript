@@ -59,7 +59,10 @@ ___
 ##### Desafio - 4 / 5 Imposto de Renda
  * Há um país denominado Lilipute, todos os habitantes ficam felizes em pagar seus impost...
 [Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/012.js)
-
+___
+##### Desafio - 5 / 5 Teorema da Divisão Euclidiana
+ * Você recebeu desafio de desenvolver um programa que calcule o quociente e o resto...
+[Ver mais](https://github.com/aluiziomonteiro/desafios-javascript/blob/master/013.js)
 
 
 
